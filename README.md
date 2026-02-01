@@ -5,16 +5,15 @@ A character-level LSTM neural network that generates Shakespeare-style text. Tra
 ## 🎭 Sample Output
 
 ```
-HAMLET.
-You will hear him on your leaves in the rest of my born,
-To have no more than these creatures.
-
-OLIVIA.
-Most wonderful!
-
-SEBASTIAN.
-The fault's hold the flower of Marcusio.
-Enter the office to Leonato's the Train.
+ll be masters, nor all masters
+Cannot be truly follow’d. You shall mark
+Many a duteous and knee-crooking knave
+That, doting on him under a world believe
+Our lips of an a soul; and his conventions to the safer
+To hear your love, and even stabb’d ourselves
+To prepare the little changes, and remedy,
+And be our time and ungeride, the bless
+Will not an earth, more forfive and part.
 ```
 
 ## 🚀 Features
